@@ -1,1 +1,1 @@
-scripts for all stages
+gcc script for compiling C at various stages
